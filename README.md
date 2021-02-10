@@ -1,5 +1,3 @@
-#Bot Playtoword (autopost from play store to wordpress)
-
 I created this script with a simple interface in order to automatically publish on one of my sites without any interference from me, this site is for publishing mobile applications, and in order to publish in it manually, I have to copy the content from Play store (apps) and re-upload it to My website WordPress and this takes a lot of time per day To publish only 30 or 50 applications, so I created this program so that I could publish 100 applications with the click of a button.
 
 This program consists of 1253 lines of code.
