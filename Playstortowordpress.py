@@ -11,7 +11,8 @@ import tkinter.font as font
 
 driver = webdriver.Chrome()
 
-#Create sample rooty for our script
+
+#Create sample root for our script
 root=Tk()
 root.title("Bot play store to Wordpress")
 root.geometry('400x300')
